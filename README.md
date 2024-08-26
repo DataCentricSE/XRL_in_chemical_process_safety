@@ -1,4 +1,4 @@
-**Resilience-based explainable reinforcement learning in chemical process safety**
+# Resilience-based explainable reinforcement learning in chemical process safety
 
 For future applications of artificial intelligence, namely reinforcement learning (RL), we develop a resilience-based explainable RL agent to make decisions about the activation of mitigation systems.
 The applied reinforcement learning algorithm is Deep Q-learning and the reward function is resilience. We investigate two explainable reinforcement learning methods, which are the decision tree, as a policy-explaining method, and the Shapley value
