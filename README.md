@@ -25,11 +25,11 @@ but the decreasing monomer concentration can compensate for this for up to 800 m
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
   <figure style="margin: 15px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/fe98f303-eddd-42d7-a4eb-8382ac1f7ff2" alt="Figure 1" style="width: 440px;">
+    <img src="https://github.com/user-attachments/assets/fe98f303-eddd-42d7-a4eb-8382ac1f7ff2" alt="Figure 1" style="width: 400px;">
   </figure>
 
   <figure style="margin: 15px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/fe085fd3-2976-4ba9-9041-272134f72b34" alt="Figure 2" style="width: 440px;">
+    <img src="https://github.com/user-attachments/assets/fe085fd3-2976-4ba9-9041-272134f72b34" alt="Figure 2" style="width: 400px;">
   </figure>
 
   Figure 2: The monomer concentration-temperature phase space is shown in the left figure with the initial temperature and concentration, and the model output is described on the right figure.
